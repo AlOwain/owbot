@@ -1,4 +1,4 @@
-# Move log bot
+# OwBot
 > Discord bot that matches audit log movements to room switching to display a log of moves.
 
 > [!WARNING]  
@@ -34,6 +34,7 @@ This however creates issues where the bot is not sure if the user switching chan
 - [ ] If the user joins a channel they have no access to; then the user must have been moved.
 - [ ] The user being moved was most likely moved into the movers' room, or out of it.
 - [ ] You could ask the mover and the users suspected to have been moved for validation.
+- [ ] You could also create a poll on the mover.
 
 ## PR's and forks
 
